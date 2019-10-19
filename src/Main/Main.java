@@ -1,17 +1,11 @@
 package Main;
 
-import RobotUtilities.MovementVars;
 import com.company.ComputerDebugging;
 import com.company.FloatPoint;
 import com.company.Robot;
-import com.company.UdpServer;
-import treamcode.MyOpMode;
 import treamcode.OpMode;
 
-import java.io.IOException;
-import java.net.DatagramPacket;
-import java.net.DatagramSocket;
-import java.net.InetAddress;
+//import treamcode.MyOpMode;
 
 public class Main {
 
@@ -21,13 +15,14 @@ public class Main {
     }
 
     /**
+     *
      * The program runs here
      */
     public void run(){
         //this is a test of the coding
         ComputerDebugging computerDebugging = new ComputerDebugging();
         Robot robot = new Robot();
-        OpMode opMode = new MyOpMode();
+        OpMode opMode = new treamcode.MyOpMode();
         opMode.init();
 
         ComputerDebugging.clearLogPoints();

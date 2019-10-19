@@ -1,7 +1,7 @@
 package RobotUtilities;
 
 import static com.company.Robot.worldAngle_rad;
-import static treamcode.MathFunctions.AngleWrap;
+import static treamcode.MathFunctions.angleWrap;
 
 public class SpeedOmeter {
     private static long lastUpdateStartTime = 0;
@@ -41,7 +41,7 @@ public class SpeedOmeter {
             }
 
 
-            angularVelocity = AngleWrap(worldAngle_rad-lastAngle) / elapsedTime;
+            angularVelocity = angleWrap(worldAngle_rad-lastAngle) / elapsedTime;
             lastAngle = worldAngle_rad;
 
             yDistTraveled = 0;
