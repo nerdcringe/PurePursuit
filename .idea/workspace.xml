@@ -1,23 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="06f710b7-470c-4d99-91ff-deca9af1f0aa" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="06f710b7-470c-4d99-91ff-deca9af1f0aa" name="Default" comment="Completed tutorial">
+      <change afterPath="$PROJECT_DIR$/src/treamcode/yeet.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PurePursuitTutorial/Main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PurePursuitTutorial/Main/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PurePursuitTutorial/RobotUtilities/SpeedOmeter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PurePursuitTutorial/RobotUtilities/SpeedOmeter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PurePursuitTutorial/com/company/Robot.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PurePursuitTutorial/com/company/Robot.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PurePursuitTutorial/com/company/UdpServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PurePursuitTutorial/com/company/UdpServer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PurePursuitTutorial/org/opencv/core/Point.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PurePursuitTutorial/org/opencv/core/Point.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PurePursuitTutorial/treamcode/CurvePoint.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PurePursuitTutorial/treamcode/CurvePoint.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PurePursuitTutorial/treamcode/MathFunctions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PurePursuitTutorial/treamcode/MathFunctions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PurePursuitTutorial/treamcode/MyOpMode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PurePursuitTutorial/treamcode/MyOpMode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PurePursuitTutorial/treamcode/PathPoint.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PurePursuitTutorial/treamcode/RobotMovement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PurePursuitTutorial/treamcode/RobotMovement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RobotUtilities/SpeedOmeter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RobotUtilities/SpeedOmeter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Robot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Robot.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -105,6 +91,14 @@
       <option name="presentableId" value="Default" />
       <updated>1557677049189</updated>
     </task>
+    <task id="LOCAL-00001" summary="Completed tutorial">
+      <created>1571502951714</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1571502951714</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -119,6 +113,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Completed tutorial" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed tutorial" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
